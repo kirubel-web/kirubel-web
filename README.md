@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=500&size=22&pause=1000&color=268bd2&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+I'm+KIRUBEL;%E3%80%8C+Computer_Engineer+|+BackEnd_Developer++%E3%80%8D" alt="Typing SVG" />
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px></picture> **About me**
+## **About me**
 I'm a full stack developer...
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
